@@ -1,62 +1,55 @@
-# 🎵 Clone Spotify X Premium
+<h1 align="center">🎧 Clone Spotify X Premium</h1>
 
-Clone Spotify X Premium là một project mô phỏng lại giao diện và một số chức năng cơ bản của ứng dụng Spotify, với giao diện hiện đại và trải nghiệm người dùng tương tự phiên bản Premium.
+<p align="center">
+  Giao diện Spotify hiện đại, mượt mà, mô phỏng trải nghiệm người dùng của Spotify Premium.
+</p>
 
-## 🚀 Tính năng
-
-- 🎧 Giao diện giống Spotify Premium
-- 🔍 Tìm kiếm bài hát, nghệ sĩ
-- 📂 Danh sách phát (playlist)
-- 🎶 Trình phát nhạc đơn giản
-- 🌙 Hỗ trợ chế độ tối
-- 📱 Responsive trên nhiều thiết bị
-
-## 📸 Ảnh minh họa
-
-> (Bạn có thể thêm ảnh chụp màn hình tại đây)
-
-## 🛠️ Công nghệ sử dụng
-
-- HTML / CSS / JavaScript
-- React (nếu có)
-- TailwindCSS (nếu có)
-- Firebase / API nhạc (nếu có)
-
-## 📦 Cài đặt
-
-```bash
-# Clone repository
-git clone https://github.com/nguyenngoctufpt/Clone-Spotify-X-PRemium.git
-
-# Di chuyển vào thư mục
-cd Clone-Spotify-X-PRemium
-
-# Cài đặt dependencies (nếu dùng npm)
-npm install
-
-# Chạy ứng dụng
-npm start
-💡 Ghi chú
-Đây chỉ là bản mô phỏng phục vụ mục đích học tập, không dùng để thương mại.
-
-Không tích hợp đầy đủ API chính thức từ Spotify.
-
-📄 License
-Project này được phát hành dưới MIT License.
-
-yaml
-Sao chép
-Chỉnh sửa
+<p align="center">
+  <img src="https://img.shields.io/badge/status-in%20development-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square"/>
+</p>
 
 ---
 
-### ✅ Hướng dẫn thêm README vào repo
+## ✨ Giới thiệu
 
-1. Tạo file tên `README.md` trong thư mục gốc.
-2. Dán nội dung ở trên vào.
-3. Chạy các lệnh sau để đẩy lên GitHub:
+**Clone Spotify X Premium** là một ứng dụng web được thiết kế lại từ Spotify, tập trung vào giao diện người dùng tinh gọn, trải nghiệm giống bản Premium, và tối ưu hóa cho nhiều thiết bị. Dự án hướng đến việc học tập UI/UX và React hoặc các công nghệ frontend hiện đại.
+
+---
+
+## 🚀 Tính năng nổi bật
+
+- 🎵 Giao diện lấy cảm hứng từ Spotify Premium
+- 🖱️ Hover effect mượt mà, animation hiện đại
+- 📱 Responsive đầy đủ trên desktop, tablet, mobile
+- 🔍 Thanh tìm kiếm nhạc (tuỳ chọn)
+- 🌓 Dark mode
+- 🎧 Trình phát nhạc cơ bản (có thể mở rộng)
+
+---
+
+## 🛠️ Công nghệ sử dụng
+
+| Công nghệ | Mục đích |
+|----------|----------|
+| **HTML5 / CSS3** | Cấu trúc & style |
+| **JavaScript / React** | Logic & giao diện động |
+| **TailwindCSS** | Thiết kế responsive nhanh chóng |
+| **Firebase / API nhạc** (tuỳ chọn) | Lưu trữ và phát nhạc |
+
+---
+
+## 📦 Cài đặt nhanh
 
 ```bash
-git add README.md
-git commit -m "Thêm README.md mô tả project"
-git push origin master   # Hoặc main nếu bạn đã đổi nhánh
+# 1. Clone dự án
+git clone https://github.com/nguyenngoctufpt/Clone-Spotify-X-PRemium.git
+
+# 2. Di chuyển vào thư mục
+cd Clone-Spotify-X-PRemium
+
+# 3. Cài đặt dependencies (nếu có package.json)
+npm install
+
+# 4. Chạy ứng dụng
+npm start
